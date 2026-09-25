@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/wasim-sarwar-014904164">
+<a href="https://www.linkedin.com/in/wasimsarwardev">
   <img src="https://raw.githubusercontent.com/wasim3/wasim3/main/header.svg" width="100%" alt="Wasim Sarwar, Senior Full-Stack Web Developer, Laravel, Vue.js, Nuxt, React" />
 </a>
 
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wasim-sarwar-014904164"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/wasimsarwardev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Based_in-Lahore%2C_Pakistan-0B1220?style=for-the-badge&logo=googlemaps&logoColor=2DD4BF" alt="Lahore, Pakistan" />
   <img src="https://img.shields.io/badge/Open_to-On--site_%C2%B7_Hybrid_%C2%B7_Remote-0F766E?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to on-site, hybrid and remote" />
   <img src="https://komarev.com/ghpvc/?username=wasim3&style=for-the-badge&color=0B1220&label=PROFILE+VIEWS" alt="Profile views" />
@@ -205,11 +205,11 @@ Human resource management system for employee administration and organisational 
 
 <p align="center">
   Most of my production work lives in private client and company repositories.<br/>
-  If you'd like to talk about a project or a role, the best place to reach me is <a href="https://www.linkedin.com/in/wasim-sarwar-014904164">LinkedIn</a>.
+  If you'd like to talk about a project or a role, the best place to reach me is <a href="https://www.linkedin.com/in/wasimsarwardev">LinkedIn</a>.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wasim-sarwar-014904164"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="Message me on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/wasimsarwardev"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="Message me on LinkedIn" /></a>
 </p>
 
 <br/>
