@@ -27,7 +27,7 @@ Most of my work sits **where systems meet**: REST APIs, third-party integrations
 
 I started my career in **software quality assurance**, and that still shapes how I build: tested, maintainable and ready for real traffic.
 
-- 💼 **Now:** Senior Web Developer at Compilex Technologies
+- 💼 **Now:** Lead Web Developer at Compilex Technologies
 - 🧩 **Built:** CMS, e-commerce, ERP, HRMS & marketplace platforms
 - 🤖 **Learning:** AI engineering, LLMs & software architecture
 - 💬 **Ask me about:** Laravel, Vue/Nuxt, APIs, payment integrations
